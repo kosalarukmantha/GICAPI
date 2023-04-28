@@ -1,0 +1,50 @@
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\x86\KernelTraceControl.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\x86\KernelTraceControl.Win61.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\x86\msdia140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\x86\msvcp140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\x86\vcruntime140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\amd64\KernelTraceControl.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\amd64\msdia140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\amd64\msvcp140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\amd64\vcruntime140.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\amd64\vcruntime140_1.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\TraceReloggerLib.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\Dia2Lib.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\OSExtensions.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\Common.deps.json
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\Common.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\ref\Common.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\bin\Debug\net5.0\Common.pdb
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\ref\Common.dll
+D:\E Drive\My\Assignment\GIC.API2\PopulationAndHouseholdDataWebApi-master\Common\obj\Debug\net5.0\Common.pdb
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\x86\KernelTraceControl.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\x86\KernelTraceControl.Win61.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\x86\msdia140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\x86\msvcp140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\x86\vcruntime140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\amd64\KernelTraceControl.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\amd64\msdia140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\amd64\msvcp140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\amd64\vcruntime140.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\amd64\vcruntime140_1.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\TraceReloggerLib.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\Dia2Lib.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\OSExtensions.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\Common.deps.json
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\Common.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\ref\Common.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\bin\Debug\net5.0\Common.pdb
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\ref\Common.dll
+D:\E Drive\My\Assignment\GIC.API - 2023\PopulationAndHouseholdDataWebApi\Common\obj\Debug\net5.0\Common.pdb

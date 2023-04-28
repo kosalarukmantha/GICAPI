@@ -1,0 +1,6 @@
+04/28/2023 13:52:19[][INF](.) Application starting
+04/28/2023 13:55:31[][INF](.) Application starting
+04/28/2023 13:55:49[][INF](BusinessServices.HouseholdService.) HouseholdService -> LoadAllByStateIdAsync : 0
+04/28/2023 13:58:28[][INF](.) Application starting
+04/28/2023 13:58:38[][INF](PopulationAndHouseholdDataWebApi.Controllers.HouseholdController.) HouseholdContriller -> LoadAllByStateIdAsync : "PopulationAndHouseholdDataWebApi.Models.StateQuery"
+04/28/2023 13:58:44[][INF](BusinessServices.HouseholdService.) HouseholdService -> LoadAllByStateIdAsync : 0
